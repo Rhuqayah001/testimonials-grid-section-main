@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://testimonials-grid-section-main-nine-alpha.vercel.app/)
+- Solution URL: [solution URL ](https://www.frontendmentor.io/solutions/testimonials-grid-section-dPAZdEz43a)
+- Live Site URL: [Live site](https://testimonials-grid-section-main-nine-alpha.vercel.app/)
 
 ## My process
 
